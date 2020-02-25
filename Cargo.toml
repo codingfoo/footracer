@@ -1,0 +1,6 @@
+[package]
+name = "footracer"
+version = "0.1.0"
+authors = ["Bowen Masco <bowen@codingfoo.com>"]
+
+[dependencies]
